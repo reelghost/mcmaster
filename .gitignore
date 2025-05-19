@@ -1,0 +1,12 @@
+node_modules
+*.csv
+*.txt
+*.xlsx
+firefox_profile
+chrome_profile
+doordash
+*.log
+instacartData
+*.json
+*.js
+profile
